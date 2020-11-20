@@ -1,0 +1,11 @@
+div.CodeMirror, div.output_area pre, div.output_wrapper pre{
+    font-family: D2Coding, monospace !important;
+    font-size: 17px;
+    line-height: 140%;
+}
+
+div#notebook, div.prompt {
+    font-family: D2Coding, monospace !important;
+    font-size: 17px;
+    line-height: 140%;
+}
